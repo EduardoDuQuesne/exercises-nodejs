@@ -1,3 +1,3 @@
-# Nashville Software School: NodeJs Exercises
+# Nashville Software School: Node Orientation
 
 Collection of basic Node exercises.
