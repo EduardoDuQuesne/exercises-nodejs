@@ -1,0 +1,19 @@
+{
+  "name": "diceroll",
+  "version": "1.0.0",
+  "main": "./bin/diceroll",
+  "bin": {
+    "diceroll": "./bin/diceroll"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "diceroll": "node ./bin/diceroll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
